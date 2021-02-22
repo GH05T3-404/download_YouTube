@@ -1,7 +1,7 @@
 from pytube import YouTube
 import os
 
-#crefitos
+#creditos
 os.system("clear")
 print("""\033[1;31m✞✞ ĆŘ€ĐƗŦØŞ ✞✞
 GHOST ==> https://github.com/GH05T3-404/
